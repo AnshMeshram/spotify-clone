@@ -2,13 +2,14 @@
 
 A fully responsive Spotify-inspired music streaming web application that mimics the look and feel of the official Spotify platform. This project was built to demonstrate front-end development skills, UI/UX design, and integration with music APIs.
 
-> 🚀 Live Demo: *(Add your live link here if deployed)*
+> 🚀 Live Demo: *(https://spotify-clone-s60l.onrender.com/)*
 
 ---
 
 ## 📸 Preview
 
-*(Include screenshots or screen recording here)*
+*(![image](https://github.com/user-attachments/assets/d285c268-7e1b-48aa-a6d2-5b732ddadd4a)
+*
 
 ---
 
@@ -59,3 +60,10 @@ npm install
 
 # 4. Start the development server
 npm start
+
+# Fork this repository
+# Create your feature branch: git checkout -b feature-name
+# Commit your changes: git commit -m 'Add feature'
+# Push to the branch: git push origin feature-name
+# Open a pull request
+
