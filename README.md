@@ -8,8 +8,8 @@ A fully responsive Spotify-inspired music streaming web application that mimics 
 
 ## 📸 Preview
 
-*(![image](https://github.com/user-attachments/assets/d285c268-7e1b-48aa-a6d2-5b732ddadd4a)
-*
+![image](https://github.com/user-attachments/assets/d285c268-7e1b-48aa-a6d2-5b732ddadd4a)
+
 
 ---
 
